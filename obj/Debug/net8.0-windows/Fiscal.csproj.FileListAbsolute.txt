@@ -1,0 +1,16 @@
+C:\Estudos\Fiscal\Fiscal\Fiscal\bin\Debug\net8.0-windows\Fiscal.exe
+C:\Estudos\Fiscal\Fiscal\Fiscal\bin\Debug\net8.0-windows\Fiscal.deps.json
+C:\Estudos\Fiscal\Fiscal\Fiscal\bin\Debug\net8.0-windows\Fiscal.runtimeconfig.json
+C:\Estudos\Fiscal\Fiscal\Fiscal\bin\Debug\net8.0-windows\Fiscal.dll
+C:\Estudos\Fiscal\Fiscal\Fiscal\bin\Debug\net8.0-windows\Fiscal.pdb
+C:\Estudos\Fiscal\Fiscal\Fiscal\obj\Debug\net8.0-windows\Fiscal.Form1.resources
+C:\Estudos\Fiscal\Fiscal\Fiscal\obj\Debug\net8.0-windows\Fiscal.csproj.GenerateResource.cache
+C:\Estudos\Fiscal\Fiscal\Fiscal\obj\Debug\net8.0-windows\Fiscal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Fiscal\Fiscal\Fiscal\obj\Debug\net8.0-windows\Fiscal.AssemblyInfoInputs.cache
+C:\Estudos\Fiscal\Fiscal\Fiscal\obj\Debug\net8.0-windows\Fiscal.AssemblyInfo.cs
+C:\Estudos\Fiscal\Fiscal\Fiscal\obj\Debug\net8.0-windows\Fiscal.csproj.CoreCompileInputs.cache
+C:\Estudos\Fiscal\Fiscal\Fiscal\obj\Debug\net8.0-windows\Fiscal.dll
+C:\Estudos\Fiscal\Fiscal\Fiscal\obj\Debug\net8.0-windows\refint\Fiscal.dll
+C:\Estudos\Fiscal\Fiscal\Fiscal\obj\Debug\net8.0-windows\Fiscal.pdb
+C:\Estudos\Fiscal\Fiscal\Fiscal\obj\Debug\net8.0-windows\Fiscal.genruntimeconfig.cache
+C:\Estudos\Fiscal\Fiscal\Fiscal\obj\Debug\net8.0-windows\ref\Fiscal.dll
